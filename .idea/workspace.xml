@@ -56,7 +56,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RandomsInFile">
     <configuration name="Asg02_Part01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Asg02_Part01" />
       <module name="CS-141-Java-1" />
@@ -64,8 +64,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Asg03_Part01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Asg03_Part01" />
+      <module name="CS-141-Java-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomsInFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomsInFile" />
+      <module name="CS-141-Java-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheGreatestAndTheLeastOfThese" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheGreatestAndTheLeastOfThese" />
+      <module name="CS-141-Java-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomsInFile" />
+        <item itemvalue="Application.TheGreatestAndTheLeastOfThese" />
+        <item itemvalue="Application.Asg03_Part01" />
         <item itemvalue="Application.Asg02_Part01" />
       </list>
     </recent_temporary>
@@ -83,6 +107,10 @@
       <workItem from="1588047843421" duration="3083000" />
       <workItem from="1588051018383" duration="3327000" />
       <workItem from="1588055923497" duration="180000" />
+      <workItem from="1588106865670" duration="103000" />
+      <workItem from="1588107693977" duration="36000" />
+      <workItem from="1588553808446" duration="6166000" />
+      <workItem from="1588562464660" duration="351000" />
     </task>
     <servers />
   </component>
@@ -106,22 +134,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1588051045965" />
-    <state width="2517" height="394" key="GridCell.Tab.0.bottom" timestamp="1588054465787">
+    <state width="2517" height="394" key="GridCell.Tab.0.bottom" timestamp="1588562341478">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588054465787" />
-    <state width="2517" height="394" key="GridCell.Tab.0.center" timestamp="1588054465787">
+    <state width="2517" height="394" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1588562341478" />
+    <state width="2517" height="394" key="GridCell.Tab.0.center" timestamp="1588562341478">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588054465787" />
-    <state width="2517" height="394" key="GridCell.Tab.0.left" timestamp="1588054465787">
+    <state width="2517" height="394" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1588562341478" />
+    <state width="2517" height="394" key="GridCell.Tab.0.left" timestamp="1588562341478">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588054465787" />
-    <state width="2517" height="394" key="GridCell.Tab.0.right" timestamp="1588054465787">
+    <state width="2517" height="394" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1588562341478" />
+    <state width="2517" height="394" key="GridCell.Tab.0.right" timestamp="1588562341478">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="394" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588054465787" />
+    <state width="2517" height="394" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1588562341478" />
     <state x="760" y="274" key="SettingsEditor" timestamp="1588050545185">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
