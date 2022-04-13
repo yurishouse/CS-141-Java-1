@@ -1,5 +1,5 @@
 package MathTutor;
-/* Made by Zhongli Liang */
+/* Made by Shiina Yuri */
 import java.util.Random;
 import java.util.Scanner;
 

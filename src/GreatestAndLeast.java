@@ -1,5 +1,5 @@
 import java.util.Scanner;
-/* Made by Zhongli Liang */
+/* Made by Shiina Yuri */
 public class GreatestAndLeast {
     private static Scanner scanner = new Scanner(System.in);
     private static void sop(Object o){ System.out.print(o);}

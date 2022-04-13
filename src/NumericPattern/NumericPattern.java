@@ -36,7 +36,7 @@ public class NumericPattern {
      * @param direction boolean, incremental if true
      * @return String of numbers
      * @throws IllegalArgumentException when size <= 0
-     * @author Zhongli Liang
+     * @author Shiina Yuri
      */
     private static String numericPattern(int size, boolean direction) throws IllegalArgumentException {
         if (size < 1)

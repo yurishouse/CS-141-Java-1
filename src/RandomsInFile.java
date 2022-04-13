@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.util.Random;
 import java.util.Scanner;
-/* Made by Zhongli Liang */
+/* Made by Shiina Yuri */
 public class RandomsInFile {
     private static Scanner scanner = new Scanner(System.in);
 
